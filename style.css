@@ -1,0 +1,77 @@
+.About{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.Origami{
+    display: flex;
+    font-size: 20px;
+    background-color: #f08080;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    font-weight: 400;
+    color: #87cefa;
+
+}
+
+
+
+.menu{
+  float: left;
+  vertical-align: 5px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin:25px;
+  width: 310px;
+  font-family: fantasy;
+  justify-content: space-evenly;
+}
+
+h1{
+    background-color: lightcoral;
+    border: turquoise;
+   
+}
+
+h2{
+    background-color: lightcoral;
+    border: turquoise;
+    font-size: 30px;
+}
+
+h3{
+    background-color: lightcoral;
+    border: turquoise;
+    font-size: 30px;
+
+}
+
+h4{
+    background-color: lightcoral;
+    border: turquoise;
+    font-size: 30px; 
+}
+
+h5{
+    background-color: lightcoral;
+    border: turquoise;
+    font-size: 30px; 
+}
+.aboutHoney{
+    background-color: burlywood;
+    font-family: serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+a:link{
+    color: rgb(198, 174, 204);
+}
+
